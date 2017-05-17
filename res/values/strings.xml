@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">知无涯</string>
+
+    <!--navigation_drawer-->
+    <string name="nav_home">首页</string>
+    <string name="nav_bookmarks">收藏</string>
+    <string name="change_theme">切换主题</string>
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!--menu-->
+    <string name="feel_lucky">随便看看</string>
+    <!--menu_bookmarks-->
+    <string name="search_bookmarks">搜索收藏</string>
+
+    <!--snackbar-->
+    <string name="retry">重试</string>
+    <string name="loaded_failed">加载失败!</string>
+    <string name="share_error">分享失败</string>
+    <string name="no_browser_found">没有安装浏览器</string>
+    <string name="copied_to_clipboard">复制成功</string>
+    <string name="copied_to_clipboard_failed">复制失败</string>
+    <string name="added_to_bookmarks">已添加到收藏</string>
+    <string name="deleted_from_bookmarks">已从收藏中删除</string>
+
+    <!--bottom sheet list-->
+    <string name="action_add_to_bookmarks">添加到收藏</string>
+    <string name="action_delete_from_bookmarks">取消收藏</string>
+    <string name="action_copy_link">复制链接</string>
+    <string name="action_open_in_browser">在浏览器中打开</string>
+    <string name="action_copy_text">复制内容文本</string>
+    <string name="action_share_as_text">作为文本分享</string>
+
+    <!--shareAsText-->
+    <string name="share_extra"> 分享自 知无涯</string>
+    <string name="share_to">分享至</string>
+
+    <string name="title_activity_read">阅读</string>
+    <string name="loading_more">正在加载…</string>
+
+</resources>
